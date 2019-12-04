@@ -34,3 +34,4 @@ CUSTOM_MATRIX = yes
 SRC = matrix.c backlight.c
 
 LAYOUTS = ortho_5x12
+TAP_DANCE_ENABLE = yes
